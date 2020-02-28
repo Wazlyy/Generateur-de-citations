@@ -1,8 +1,8 @@
 <?php
 
 define('DB_NAME', 'citation');
-define('DB_USER', 'wazly');
-define('DB_PASSWORD', 'root');
+define('DB_USER', '');
+define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
 define('DB_TABLE', 'phrase');
 
